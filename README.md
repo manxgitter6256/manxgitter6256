@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew @manxgitter6256
-- 👀 I’m interested in Arduino
+- 👀 At the moment I’m interested in Arduino mostly but anything computer and of course Gaming.
 - 🌱 I’m currently learning C++ (Arduino IDE); Java and Python.
 - 💞️ I’m looking for a job!
 - 📫 bWF0dGhld0Bob2xtZXMtb25saW5lLmRl (Base 64)
